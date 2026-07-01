@@ -22,7 +22,7 @@ This project builds a predictive model to estimate used car prices, applying lin
 - **MSE (test set):** 0.26
 
 The model explains about 75% of the variance in used car prices on unseen data. The gap between train R² (0.88) and test R² (0.75) suggests some overfitting.
-The model fits the training data noticeably better than new data, which is worth addressing in future iterations.
+The model fits the training data noticeably better than new data, which is worth addressing in future iterations. 
 
 ## Tools Used
 Python, pandas, NumPy, scikit-learn, matplotlib/seaborn, Jupyter Notebook
