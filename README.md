@@ -11,7 +11,7 @@ This project builds a predictive model to estimate used car prices, applying lin
 An interactive Tableau dashboard exploring pricing trends, brand comparisons, 
 and mileage impact on price for this dataset.
 
-🔗 [View Live Dashboard on Tableau Public]([your-tableau-public-link-here](https://public.tableau.com/app/profile/ayesha.zahir/viz/Used-Cars-Price-Analysis-Dashboard/UsedCarsPriceAnalysis?publish=yes))
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/shared/CX8HQ8XJR?:display_count=n&:origin=viz_share_link)
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
