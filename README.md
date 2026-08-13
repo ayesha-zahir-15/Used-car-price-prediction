@@ -33,6 +33,9 @@ and mileage impact on price for this dataset.
 The model explains about 75% of the variance in used car prices on unseen data. The gap between train R² (0.88) and test R² (0.75) suggests some overfitting.
 The model fits the training data noticeably better than new data, which is worth addressing in future iterations. 
 
+## Key Insights
+While luxury brands show higher average resale prices in this dataset, regression coefficients reveal that engine power is the strongest individual driver of price (33.5% of model influence), more than double any other feature, including brand. Luxury vehicles tend to command higher prices largely because they carry more powerful engines, not brand prestige alone.
+
 ## Tools Used
 Python, pandas, NumPy, scikit-learn, matplotlib/seaborn, Jupyter Notebook
 
